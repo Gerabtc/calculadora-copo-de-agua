@@ -1,5 +1,5 @@
 <div align="center">
-<img src="" width="200px"/>
+<img src="https://user-images.githubusercontent.com/86272763/184215641-b593aafc-ba12-4a06-8ff1-e489c3d5d5e6.png" width="200px"/>
 
 <h1 align="center">Calculadora para indicar a quantidade de água necessária para ser ingerida por dia.</h1>
 
@@ -55,10 +55,14 @@
 <h4 align="left"> Mobile </h4>   
 
 <p align="left">
-  <img title="" src="" width="200px">
-  <img title="" src="" width="200px">
-  <img title="" src="" width="200px">
-  <img title="" src="" width="200px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184208304-9b4fc8c3-31e6-4a80-adc4-94dc226e1b85.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184208989-f1cf024f-4d5a-4231-8695-a7133498c33c.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184209195-97ac8b41-f88f-43eb-a6b0-638030b27870.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184213691-96a36566-12b8-428b-a43b-78cd704c685e.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184214034-4cbb0116-ba69-498e-8035-f4ea9af522c1.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184214149-21ff2e68-e50e-4f13-9c71-841b20fb43d7.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184214241-e300457e-5215-47cf-a500-47026c1e82b0.jpg" width="160px">
+  <img title="" src="https://user-images.githubusercontent.com/86272763/184214326-70bc8355-2320-468a-b16c-4120d50f7368.jpg" width="160px">
   </p>
 
 ---
@@ -120,7 +124,7 @@ Crie um dispositivo virtual (device manager) no android studio para poder rodar 
 <h3 id="-autor" align="left"> 🦸 Autor </h3>
 
 <div align="left">
-<img style="border-radius: 50%" src="" width="100px" />
+<img style="border-radius: 50%" src="https://user-images.githubusercontent.com/86272763/184214913-b1ee7835-9e84-42fb-8ca7-bcf3ce46cb31.jpeg" width="100px" />
 <br><sub>  Gerardus Rocha. </sub>
 
  <sub> <a href="https://www.youtube.com/c/GeraProfissaoTrader" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> </sub>
