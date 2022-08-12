@@ -177,7 +177,7 @@
         app:srcCompat="@drawable/pingo_dagua" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonVamos"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
         android:background="@drawable/botao_customizado"
